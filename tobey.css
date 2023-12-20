@@ -1,0 +1,9 @@
+.pelicula{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2rem;
+    gap:3rem;
+}
+img{
+    max-width: 300px;
+}
